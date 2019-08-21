@@ -20,7 +20,7 @@ public class ControllerApp {
 	@GetMapping("/")
 	public String welcome(@RequestParam(name = "name", required = false, defaultValue = "TCSer")String name) {
 		log.info("Loaded welcome page");
-		return "Hi! This is a demo page for " + name;
+		return "Hi! This is a quick demo page for " + name;
 	}
 	
 }
