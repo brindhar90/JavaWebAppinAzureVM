@@ -3,8 +3,8 @@
 # Add steps that analyze code, save build artifacts, deploy, and more:
 # https://docs.microsoft.com/azure/devops/pipelines/languages/java
 
-variables:
-  auth: AmmaAppa*123
+#variables:
+ # auth: AmmaAppa*123
 
 trigger:
 - repo
