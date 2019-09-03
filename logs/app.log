@@ -1,0 +1,164 @@
+2019-08-16 23:09:31,567 INFO  com.sample.demo.DemoApplicationTests - Starting DemoApplicationTests on USSTWL8RVWNQ2 with PID 9804 (started by BRRAMAS in C:\BRRAMAS\PACKAGES\PROJECT\GITHUB\VMDeployCode)
+2019-08-16 23:09:31,569 DEBUG com.sample.demo.DemoApplicationTests - Running with Spring Boot v2.1.7.RELEASE, Spring v5.1.9.RELEASE
+2019-08-16 23:09:31,571 INFO  com.sample.demo.DemoApplicationTests - No active profile set, falling back to default profiles: default
+2019-08-16 23:09:36,163 INFO  com.sample.demo.DemoApplicationTests - Started DemoApplicationTests in 5.959 seconds (JVM running for 8.114)
+2019-08-16 23:09:37,146 INFO  com.sample.demo.ControllerApp - Received name:TCSer
+2019-08-16 23:09:37,208 DEBUG com.sample.demo.DemoApplicationTests - Test completed successfully.
+2019-08-17 20:47:28,615 INFO  com.sample.demo.DemoApplication - Starting DemoApplication on USSTWL8RVWNQ2 with PID 8896 (C:\BRRAMAS\PACKAGES\PROJECT\GITHUB\VMDeployCode\target\classes started by BRRAMAS in C:\BRRAMAS\PACKAGES\PROJECT\GITHUB\VMDeployCode)
+2019-08-17 20:47:28,629 DEBUG com.sample.demo.DemoApplication - Running with Spring Boot v2.1.7.RELEASE, Spring v5.1.9.RELEASE
+2019-08-17 20:47:28,634 INFO  com.sample.demo.DemoApplication - No active profile set, falling back to default profiles: default
+2019-08-17 20:47:32,538 INFO  com.sample.demo.DemoApplication - Started DemoApplication in 5.598 seconds (JVM running for 6.887)
+2019-08-17 20:47:32,542 INFO  com.sample.demo.DemoApplication - Demo app is running..
+2019-08-17 20:48:53,380 INFO  com.sample.demo.DemoApplication - Starting DemoApplication on USSTWL8RVWNQ2 with PID 8896 (C:\BRRAMAS\PACKAGES\PROJECT\GITHUB\VMDeployCode\target\classes started by BRRAMAS in C:\BRRAMAS\PACKAGES\PROJECT\GITHUB\VMDeployCode)
+2019-08-17 20:48:53,381 DEBUG com.sample.demo.DemoApplication - Running with Spring Boot v2.1.7.RELEASE, Spring v5.1.9.RELEASE
+2019-08-17 20:48:53,381 INFO  com.sample.demo.DemoApplication - No active profile set, falling back to default profiles: default
+2019-08-17 20:49:04,860 INFO  com.sample.demo.DemoApplication - Starting DemoApplication on USSTWL8RVWNQ2 with PID 8896 (C:\BRRAMAS\PACKAGES\PROJECT\GITHUB\VMDeployCode\target\classes started by BRRAMAS in C:\BRRAMAS\PACKAGES\PROJECT\GITHUB\VMDeployCode)
+2019-08-17 20:49:04,861 DEBUG com.sample.demo.DemoApplication - Running with Spring Boot v2.1.7.RELEASE, Spring v5.1.9.RELEASE
+2019-08-17 20:49:04,861 INFO  com.sample.demo.DemoApplication - No active profile set, falling back to default profiles: default
+2019-08-17 20:49:05,613 INFO  com.sample.demo.DemoApplication - Started DemoApplication in 0.82 seconds (JVM running for 99.961)
+2019-08-17 20:49:05,616 INFO  com.sample.demo.DemoApplication - Demo app is running..
+2019-08-17 20:49:18,102 INFO  com.sample.demo.ControllerApp - Loaded welcome page
+2019-08-17 21:35:38,008 INFO  com.sample.demo.DemoApplicationTests - Starting DemoApplicationTests on USSTWL8RVWNQ2 with PID 1012 (started by BRRAMAS in C:\BRRAMAS\PACKAGES\PROJECT\GITHUB\VMDeployCode)
+2019-08-17 21:35:38,010 DEBUG com.sample.demo.DemoApplicationTests - Running with Spring Boot v2.1.7.RELEASE, Spring v5.1.9.RELEASE
+2019-08-17 21:35:38,011 INFO  com.sample.demo.DemoApplicationTests - No active profile set, falling back to default profiles: default
+2019-08-17 21:35:43,191 INFO  com.sample.demo.DemoApplicationTests - Started DemoApplicationTests in 6.463 seconds (JVM running for 8.49)
+2019-08-17 21:35:44,666 INFO  com.sample.demo.ControllerApp - Received name:TCSer
+2019-08-17 21:35:44,727 DEBUG com.sample.demo.DemoApplicationTests - Test completed successfully.
+2019-08-19 11:25:55,858 INFO  com.sample.demo.DemoApplication - Starting DemoApplication on USSTWL8RVWNQ2 with PID 18212 (C:\BRRAMAS\PACKAGES\PROJECT\GITHUB\VMDeployCode\target\classes started by BRRAMAS in C:\BRRAMAS\PACKAGES\PROJECT\GITHUB\VMDeployCode)
+2019-08-19 11:25:55,866 DEBUG com.sample.demo.DemoApplication - Running with Spring Boot v2.1.7.RELEASE, Spring v5.1.9.RELEASE
+2019-08-19 11:25:55,867 INFO  com.sample.demo.DemoApplication - No active profile set, falling back to default profiles: default
+2019-08-19 11:26:52,759 INFO  com.sample.demo.DemoApplication - Starting DemoApplication on USSTWL8RVWNQ2 with PID 23856 (C:\BRRAMAS\PACKAGES\PROJECT\GITHUB\VMDeployCode\target\classes started by BRRAMAS in C:\BRRAMAS\PACKAGES\PROJECT\GITHUB\VMDeployCode)
+2019-08-19 11:26:52,766 DEBUG com.sample.demo.DemoApplication - Running with Spring Boot v2.1.7.RELEASE, Spring v5.1.9.RELEASE
+2019-08-19 11:26:52,767 INFO  com.sample.demo.DemoApplication - No active profile set, falling back to default profiles: default
+2019-08-19 11:26:56,412 INFO  com.sample.demo.DemoApplication - Started DemoApplication in 5.09 seconds (JVM running for 6.152)
+2019-08-19 11:26:56,414 INFO  com.sample.demo.DemoApplication - Demo app VM is running..
+2019-08-19 11:29:30,663 INFO  com.sample.demo.DemoApplicationTests - Starting DemoApplicationTests on USSTWL8RVWNQ2 with PID 16976 (started by BRRAMAS in C:\BRRAMAS\PACKAGES\PROJECT\GITHUB\VMDeployCode)
+2019-08-19 11:29:30,666 DEBUG com.sample.demo.DemoApplicationTests - Running with Spring Boot v2.1.7.RELEASE, Spring v5.1.9.RELEASE
+2019-08-19 11:29:30,670 INFO  com.sample.demo.DemoApplicationTests - No active profile set, falling back to default profiles: default
+2019-08-19 11:29:35,209 INFO  com.sample.demo.DemoApplicationTests - Started DemoApplicationTests in 5.893 seconds (JVM running for 8.232)
+2019-08-19 11:30:42,038 INFO  com.sample.demo.DemoApplication - Starting DemoApplication on USSTWL8RVWNQ2 with PID 19024 (C:\BRRAMAS\PACKAGES\PROJECT\GITHUB\VMDeployCode\target\classes started by BRRAMAS in C:\BRRAMAS\PACKAGES\PROJECT\GITHUB\VMDeployCode)
+2019-08-19 11:30:42,042 DEBUG com.sample.demo.DemoApplication - Running with Spring Boot v2.1.7.RELEASE, Spring v5.1.9.RELEASE
+2019-08-19 11:30:42,043 INFO  com.sample.demo.DemoApplication - No active profile set, falling back to default profiles: default
+2019-08-19 11:30:45,329 INFO  com.sample.demo.DemoApplication - Started DemoApplication in 4.208 seconds (JVM running for 5.03)
+2019-08-19 11:30:45,332 INFO  com.sample.demo.DemoApplication - Demo app VM is running..
+2019-08-19 11:34:37,079 INFO  com.sample.demo.DemoApplication - Starting DemoApplication on USSTWL8RVWNQ2 with PID 3196 (C:\BRRAMAS\PACKAGES\PROJECT\GITHUB\VMDeployCode\target\classes started by BRRAMAS in C:\BRRAMAS\PACKAGES\PROJECT\GITHUB\VMDeployCode)
+2019-08-19 11:34:37,088 DEBUG com.sample.demo.DemoApplication - Running with Spring Boot v2.1.7.RELEASE, Spring v5.1.9.RELEASE
+2019-08-19 11:34:37,089 INFO  com.sample.demo.DemoApplication - No active profile set, falling back to default profiles: default
+2019-08-19 11:34:41,840 INFO  com.sample.demo.DemoApplication - Started DemoApplication in 6.408 seconds (JVM running for 9.052)
+2019-08-19 11:34:41,845 INFO  com.sample.demo.DemoApplication - Demo app VM is running..
+2019-08-19 11:44:17,805 INFO  com.sample.demo.DemoApplication - Starting DemoApplication on USSTWL8RVWNQ2 with PID 24304 (C:\BRRAMAS\PACKAGES\PROJECT\GITHUB\VMDeployCode\target\classes started by BRRAMAS in C:\BRRAMAS\PACKAGES\PROJECT\GITHUB\VMDeployCode)
+2019-08-19 11:44:17,810 DEBUG com.sample.demo.DemoApplication - Running with Spring Boot v2.1.7.RELEASE, Spring v5.1.9.RELEASE
+2019-08-19 11:44:17,811 INFO  com.sample.demo.DemoApplication - No active profile set, falling back to default profiles: default
+2019-08-19 11:44:21,205 INFO  com.sample.demo.DemoApplication - Started DemoApplication in 4.372 seconds (JVM running for 5.224)
+2019-08-19 11:44:21,208 INFO  com.sample.demo.DemoApplication - Demo app VM is running..
+2019-08-19 11:44:41,363 INFO  com.sample.demo.DemoApplication - Starting DemoApplication on USSTWL8RVWNQ2 with PID 24304 (C:\BRRAMAS\PACKAGES\PROJECT\GITHUB\VMDeployCode\target\classes started by BRRAMAS in C:\BRRAMAS\PACKAGES\PROJECT\GITHUB\VMDeployCode)
+2019-08-19 11:44:41,364 DEBUG com.sample.demo.DemoApplication - Running with Spring Boot v2.1.7.RELEASE, Spring v5.1.9.RELEASE
+2019-08-19 11:44:41,364 INFO  com.sample.demo.DemoApplication - No active profile set, falling back to default profiles: default
+2019-08-19 11:44:42,620 INFO  com.sample.demo.DemoApplication - Started DemoApplication in 1.39 seconds (JVM running for 26.639)
+2019-08-19 11:44:42,623 INFO  com.sample.demo.DemoApplication - Demo app VM is running..
+2019-08-19 11:44:52,929 INFO  com.sample.demo.DemoApplication - Starting DemoApplication on USSTWL8RVWNQ2 with PID 24304 (C:\BRRAMAS\PACKAGES\PROJECT\GITHUB\VMDeployCode\target\classes started by BRRAMAS in C:\BRRAMAS\PACKAGES\PROJECT\GITHUB\VMDeployCode)
+2019-08-19 11:44:52,930 DEBUG com.sample.demo.DemoApplication - Running with Spring Boot v2.1.7.RELEASE, Spring v5.1.9.RELEASE
+2019-08-19 11:44:52,930 INFO  com.sample.demo.DemoApplication - No active profile set, falling back to default profiles: default
+2019-08-19 11:44:53,898 INFO  com.sample.demo.DemoApplication - Started DemoApplication in 1.087 seconds (JVM running for 37.918)
+2019-08-19 11:44:53,902 INFO  com.sample.demo.DemoApplication - Demo app VM is running..
+2019-08-19 12:03:22,192 INFO  com.sample.demo.DemoApplication - Starting DemoApplication on USSTWL8RVWNQ2 with PID 24476 (C:\BRRAMAS\PACKAGES\PROJECT\GITHUB\VMDeployCode\target\classes started by BRRAMAS in C:\BRRAMAS\PACKAGES\PROJECT\GITHUB\VMDeployCode)
+2019-08-19 12:03:22,197 DEBUG com.sample.demo.DemoApplication - Running with Spring Boot v2.1.7.RELEASE, Spring v5.1.9.RELEASE
+2019-08-19 12:03:22,198 INFO  com.sample.demo.DemoApplication - No active profile set, falling back to default profiles: default
+2019-08-19 12:03:28,266 INFO  com.sample.demo.DemoApplication - Started DemoApplication in 8.197 seconds (JVM running for 9.458)
+2019-08-19 12:03:28,271 INFO  com.sample.demo.DemoApplication - Demo app VM is running..
+2019-08-19 12:06:36,586 INFO  com.sample.demo.DemoApplication - Starting DemoApplication on USSTWL8RVWNQ2 with PID 24476 (C:\BRRAMAS\PACKAGES\PROJECT\GITHUB\VMDeployCode\target\classes started by BRRAMAS in C:\BRRAMAS\PACKAGES\PROJECT\GITHUB\VMDeployCode)
+2019-08-19 12:06:36,587 DEBUG com.sample.demo.DemoApplication - Running with Spring Boot v2.1.7.RELEASE, Spring v5.1.9.RELEASE
+2019-08-19 12:06:36,588 INFO  com.sample.demo.DemoApplication - No active profile set, falling back to default profiles: default
+2019-08-19 12:06:37,946 INFO  com.sample.demo.DemoApplication - Started DemoApplication in 1.536 seconds (JVM running for 199.138)
+2019-08-19 12:06:37,950 INFO  com.sample.demo.DemoApplication - Demo app VM is running..
+2019-08-25 22:30:34,674 INFO  com.sample.demo.DemoApplication - Starting DemoApplication on USSTWL8RVWNQ2 with PID 15720 (C:\BRRAMAS\PACKAGES\PROJECT\GITHUB\VMDeployCode\target\classes started by BRRAMAS in C:\BRRAMAS\PACKAGES\PROJECT\GITHUB\VMDeployCode)
+2019-08-25 22:30:34,677 DEBUG com.sample.demo.DemoApplication - Running with Spring Boot v2.1.7.RELEASE, Spring v5.1.9.RELEASE
+2019-08-25 22:30:34,678 INFO  com.sample.demo.DemoApplication - No active profile set, falling back to default profiles: default
+2019-08-25 22:30:38,373 INFO  com.sample.demo.DemoApplication - Started DemoApplication in 5.05 seconds (JVM running for 6.417)
+2019-08-25 22:30:38,376 INFO  com.sample.demo.DemoApplication - Demo app VM is running..
+2019-08-25 22:34:14,919 INFO  com.sample.demo.DemoApplication - Starting DemoApplication on USSTWL8RVWNQ2 with PID 15720 (C:\BRRAMAS\PACKAGES\PROJECT\GITHUB\VMDeployCode\target\classes started by BRRAMAS in C:\BRRAMAS\PACKAGES\PROJECT\GITHUB\VMDeployCode)
+2019-08-25 22:34:14,921 DEBUG com.sample.demo.DemoApplication - Running with Spring Boot v2.1.7.RELEASE, Spring v5.1.9.RELEASE
+2019-08-25 22:34:14,922 INFO  com.sample.demo.DemoApplication - No active profile set, falling back to default profiles: default
+2019-08-25 22:34:16,819 INFO  com.sample.demo.DemoApplication - Started DemoApplication in 2.051 seconds (JVM running for 224.863)
+2019-08-25 22:34:16,822 INFO  com.sample.demo.DemoApplication - Demo app VM is running..
+2019-08-25 22:35:11,447 INFO  com.sample.demo.DemoApplication - Starting DemoApplication on USSTWL8RVWNQ2 with PID 15720 (C:\BRRAMAS\PACKAGES\PROJECT\GITHUB\VMDeployCode\target\classes started by BRRAMAS in C:\BRRAMAS\PACKAGES\PROJECT\GITHUB\VMDeployCode)
+2019-08-25 22:35:11,447 DEBUG com.sample.demo.DemoApplication - Running with Spring Boot v2.1.7.RELEASE, Spring v5.1.9.RELEASE
+2019-08-25 22:35:11,447 INFO  com.sample.demo.DemoApplication - No active profile set, falling back to default profiles: default
+2019-08-25 22:35:12,292 INFO  com.sample.demo.DemoApplication - Started DemoApplication in 0.914 seconds (JVM running for 280.337)
+2019-08-25 22:35:12,295 INFO  com.sample.demo.DemoApplication - Demo app VM is running..
+2019-08-29 17:03:09,883 INFO  com.sample.demo.DemoApplication - Starting DemoApplication on USSTWL8RVWNQ2 with PID 16604 (C:\BRRAMAS\PACKAGES\PROJECT\GITHUB\VMDeployCode\target\classes started by BRRAMAS in C:\BRRAMAS\PACKAGES\PROJECT\GITHUB\VMDeployCode)
+2019-08-29 17:03:09,892 DEBUG com.sample.demo.DemoApplication - Running with Spring Boot v2.1.7.RELEASE, Spring v5.1.9.RELEASE
+2019-08-29 17:03:09,893 INFO  com.sample.demo.DemoApplication - No active profile set, falling back to default profiles: default
+2019-08-29 17:03:14,286 INFO  com.sample.demo.DemoApplication - Started DemoApplication in 5.423 seconds (JVM running for 6.482)
+2019-08-29 17:03:14,291 INFO  com.sample.demo.DemoApplication - Demo app VM is running..
+2019-08-29 17:08:15,426 INFO  com.sample.demo.DemoApplication - Starting DemoApplication on USSTWL8RVWNQ2 with PID 16604 (C:\BRRAMAS\PACKAGES\PROJECT\GITHUB\VMDeployCode\target\classes started by BRRAMAS in C:\BRRAMAS\PACKAGES\PROJECT\GITHUB\VMDeployCode)
+2019-08-29 17:08:15,427 DEBUG com.sample.demo.DemoApplication - Running with Spring Boot v2.1.7.RELEASE, Spring v5.1.9.RELEASE
+2019-08-29 17:08:15,427 INFO  com.sample.demo.DemoApplication - No active profile set, falling back to default profiles: default
+2019-08-29 17:08:16,533 INFO  com.sample.demo.DemoApplication - Started DemoApplication in 1.195 seconds (JVM running for 308.728)
+2019-08-29 17:08:16,536 INFO  com.sample.demo.DemoApplication - Demo app VM is running..
+2019-08-29 17:11:06,903 INFO  com.sample.demo.DemoApplication - Starting DemoApplication on USSTWL8RVWNQ2 with PID 16604 (C:\BRRAMAS\PACKAGES\PROJECT\GITHUB\VMDeployCode\target\classes started by BRRAMAS in C:\BRRAMAS\PACKAGES\PROJECT\GITHUB\VMDeployCode)
+2019-08-29 17:11:06,904 DEBUG com.sample.demo.DemoApplication - Running with Spring Boot v2.1.7.RELEASE, Spring v5.1.9.RELEASE
+2019-08-29 17:11:06,904 INFO  com.sample.demo.DemoApplication - No active profile set, falling back to default profiles: default
+2019-08-29 17:11:07,926 INFO  com.sample.demo.DemoApplication - Started DemoApplication in 1.101 seconds (JVM running for 480.121)
+2019-08-29 17:11:07,928 INFO  com.sample.demo.DemoApplication - Demo app VM is running..
+2019-09-02 22:06:22,239 INFO  com.sample.demo.DemoApplication - Starting DemoApplication on USSTWL8RVWNQ2 with PID 19136 (C:\BRRAMAS\PACKAGES\PROJECT\GITHUB\VMDeployCode\target\classes started by BRRAMAS in C:\BRRAMAS\PACKAGES\PROJECT\GITHUB\VMDeployCode)
+2019-09-02 22:06:22,245 DEBUG com.sample.demo.DemoApplication - Running with Spring Boot v2.1.7.RELEASE, Spring v5.1.9.RELEASE
+2019-09-02 22:06:22,247 INFO  com.sample.demo.DemoApplication - No active profile set, falling back to default profiles: default
+2019-09-02 22:06:26,028 INFO  com.sample.demo.DemoApplication - Started DemoApplication in 5.025 seconds (JVM running for 5.785)
+2019-09-02 22:06:26,031 INFO  com.sample.demo.DemoApplication - Demo app VM is running..
+2019-09-02 22:10:37,275 INFO  com.sample.demo.DemoApplication - Starting DemoApplication on USSTWL8RVWNQ2 with PID 19136 (C:\BRRAMAS\PACKAGES\PROJECT\GITHUB\VMDeployCode\target\classes started by BRRAMAS in C:\BRRAMAS\PACKAGES\PROJECT\GITHUB\VMDeployCode)
+2019-09-02 22:10:37,276 DEBUG com.sample.demo.DemoApplication - Running with Spring Boot v2.1.7.RELEASE, Spring v5.1.9.RELEASE
+2019-09-02 22:10:37,276 INFO  com.sample.demo.DemoApplication - No active profile set, falling back to default profiles: default
+2019-09-02 22:10:38,420 INFO  com.sample.demo.DemoApplication - Started DemoApplication in 1.266 seconds (JVM running for 258.177)
+2019-09-02 22:10:38,425 INFO  com.sample.demo.DemoApplication - Demo app VM is running..
+2019-09-02 22:24:14,529 INFO  com.sample.demo.DemoApplication - Starting DemoApplication on USSTWL8RVWNQ2 with PID 18268 (C:\BRRAMAS\PACKAGES\PROJECT\GITHUB\VMDeployCode\target\classes started by BRRAMAS in C:\BRRAMAS\PACKAGES\PROJECT\GITHUB\VMDeployCode)
+2019-09-02 22:24:14,534 DEBUG com.sample.demo.DemoApplication - Running with Spring Boot v2.1.7.RELEASE, Spring v5.1.9.RELEASE
+2019-09-02 22:24:14,534 INFO  com.sample.demo.DemoApplication - No active profile set, falling back to default profiles: default
+2019-09-02 22:24:19,142 INFO  com.sample.demo.DemoApplication - Started DemoApplication in 5.507 seconds (JVM running for 6.26)
+2019-09-02 22:24:19,146 INFO  com.sample.demo.DemoApplication - Demo app VM is running..
+2019-09-02 22:42:18,908 INFO  com.sample.demo.DemoApplication - Starting DemoApplication on USSTWL8RVWNQ2 with PID 18268 (C:\BRRAMAS\PACKAGES\PROJECT\GITHUB\VMDeployCode\target\classes started by BRRAMAS in C:\BRRAMAS\PACKAGES\PROJECT\GITHUB\VMDeployCode)
+2019-09-02 22:42:18,909 DEBUG com.sample.demo.DemoApplication - Running with Spring Boot v2.1.7.RELEASE, Spring v5.1.9.RELEASE
+2019-09-02 22:42:18,909 INFO  com.sample.demo.DemoApplication - No active profile set, falling back to default profiles: default
+2019-09-02 22:42:20,818 INFO  com.sample.demo.DemoApplication - Started DemoApplication in 2.036 seconds (JVM running for 1087.935)
+2019-09-02 22:42:20,821 INFO  com.sample.demo.DemoApplication - Demo app VM is running..
+2019-09-02 22:42:27,923 INFO  com.sample.demo.DemoApplicationTests - Starting DemoApplicationTests on USSTWL8RVWNQ2 with PID 18016 (started by BRRAMAS in C:\BRRAMAS\PACKAGES\PROJECT\GITHUB\VMDeployCode)
+2019-09-02 22:42:27,926 DEBUG com.sample.demo.DemoApplicationTests - Running with Spring Boot v2.1.7.RELEASE, Spring v5.1.9.RELEASE
+2019-09-02 22:42:27,927 INFO  com.sample.demo.DemoApplicationTests - No active profile set, falling back to default profiles: default
+2019-09-02 22:42:32,358 INFO  com.sample.demo.DemoApplicationTests - Started DemoApplicationTests in 5.818 seconds (JVM running for 9.203)
+2019-09-02 22:47:14,756 INFO  com.sample.demo.DemoApplication - Starting DemoApplication on USSTWL8RVWNQ2 with PID 18268 (C:\BRRAMAS\PACKAGES\PROJECT\GITHUB\VMDeployCode\target\classes started by BRRAMAS in C:\BRRAMAS\PACKAGES\PROJECT\GITHUB\VMDeployCode)
+2019-09-02 22:47:14,757 DEBUG com.sample.demo.DemoApplication - Running with Spring Boot v2.1.7.RELEASE, Spring v5.1.9.RELEASE
+2019-09-02 22:47:14,757 INFO  com.sample.demo.DemoApplication - No active profile set, falling back to default profiles: default
+2019-09-02 22:47:16,528 INFO  com.sample.demo.DemoApplication - Started DemoApplication in 1.925 seconds (JVM running for 1383.646)
+2019-09-02 22:47:16,531 INFO  com.sample.demo.DemoApplication - Demo app VM is running..
+2019-09-02 22:47:23,822 INFO  com.sample.demo.DemoApplicationTests - Starting DemoApplicationTests on USSTWL8RVWNQ2 with PID 1820 (started by BRRAMAS in C:\BRRAMAS\PACKAGES\PROJECT\GITHUB\VMDeployCode)
+2019-09-02 22:47:23,825 DEBUG com.sample.demo.DemoApplicationTests - Running with Spring Boot v2.1.7.RELEASE, Spring v5.1.9.RELEASE
+2019-09-02 22:47:23,827 INFO  com.sample.demo.DemoApplicationTests - No active profile set, falling back to default profiles: default
+2019-09-02 22:47:28,314 INFO  com.sample.demo.DemoApplicationTests - Started DemoApplicationTests in 5.943 seconds (JVM running for 8.146)
+2019-09-02 22:47:29,805 DEBUG com.sample.demo.DemoApplicationTests - Test completed successfully.
+2019-09-02 22:49:01,443 INFO  com.sample.demo.DemoApplication - Starting DemoApplication on USSTWL8RVWNQ2 with PID 18268 (C:\BRRAMAS\PACKAGES\PROJECT\GITHUB\VMDeployCode\target\classes started by BRRAMAS in C:\BRRAMAS\PACKAGES\PROJECT\GITHUB\VMDeployCode)
+2019-09-02 22:49:01,444 DEBUG com.sample.demo.DemoApplication - Running with Spring Boot v2.1.7.RELEASE, Spring v5.1.9.RELEASE
+2019-09-02 22:49:01,444 INFO  com.sample.demo.DemoApplication - No active profile set, falling back to default profiles: default
+2019-09-02 22:49:36,583 INFO  com.sample.demo.DemoApplication - Starting DemoApplication on USSTWL8RVWNQ2 with PID 18268 (C:\BRRAMAS\PACKAGES\PROJECT\GITHUB\VMDeployCode\target\classes started by BRRAMAS in C:\BRRAMAS\PACKAGES\PROJECT\GITHUB\VMDeployCode)
+2019-09-02 22:49:36,583 DEBUG com.sample.demo.DemoApplication - Running with Spring Boot v2.1.7.RELEASE, Spring v5.1.9.RELEASE
+2019-09-02 22:49:36,583 INFO  com.sample.demo.DemoApplication - No active profile set, falling back to default profiles: default
+2019-09-02 22:49:50,179 INFO  com.sample.demo.DemoApplication - Starting DemoApplication on USSTWL8RVWNQ2 with PID 18268 (C:\BRRAMAS\PACKAGES\PROJECT\GITHUB\VMDeployCode\target\classes started by BRRAMAS in C:\BRRAMAS\PACKAGES\PROJECT\GITHUB\VMDeployCode)
+2019-09-02 22:49:50,179 DEBUG com.sample.demo.DemoApplication - Running with Spring Boot v2.1.7.RELEASE, Spring v5.1.9.RELEASE
+2019-09-02 22:49:50,179 INFO  com.sample.demo.DemoApplication - No active profile set, falling back to default profiles: default
+2019-09-02 22:50:03,686 INFO  com.sample.demo.DemoApplication - Starting DemoApplication on USSTWL8RVWNQ2 with PID 18268 (C:\BRRAMAS\PACKAGES\PROJECT\GITHUB\VMDeployCode\target\classes started by BRRAMAS in C:\BRRAMAS\PACKAGES\PROJECT\GITHUB\VMDeployCode)
+2019-09-02 22:50:03,686 DEBUG com.sample.demo.DemoApplication - Running with Spring Boot v2.1.7.RELEASE, Spring v5.1.9.RELEASE
+2019-09-02 22:50:03,687 INFO  com.sample.demo.DemoApplication - No active profile set, falling back to default profiles: default
+2019-09-02 22:50:19,431 INFO  com.sample.demo.DemoApplication - Starting DemoApplication on USSTWL8RVWNQ2 with PID 18268 (C:\BRRAMAS\PACKAGES\PROJECT\GITHUB\VMDeployCode\target\classes started by BRRAMAS in C:\BRRAMAS\PACKAGES\PROJECT\GITHUB\VMDeployCode)
+2019-09-02 22:50:19,432 DEBUG com.sample.demo.DemoApplication - Running with Spring Boot v2.1.7.RELEASE, Spring v5.1.9.RELEASE
+2019-09-02 22:50:19,432 INFO  com.sample.demo.DemoApplication - No active profile set, falling back to default profiles: default
+2019-09-02 22:50:48,824 INFO  com.sample.demo.DemoApplication - Starting DemoApplication on USSTWL8RVWNQ2 with PID 18268 (C:\BRRAMAS\PACKAGES\PROJECT\GITHUB\VMDeployCode\target\classes started by BRRAMAS in C:\BRRAMAS\PACKAGES\PROJECT\GITHUB\VMDeployCode)
+2019-09-02 22:50:48,825 DEBUG com.sample.demo.DemoApplication - Running with Spring Boot v2.1.7.RELEASE, Spring v5.1.9.RELEASE
+2019-09-02 22:50:48,825 INFO  com.sample.demo.DemoApplication - No active profile set, falling back to default profiles: default
+2019-09-02 22:50:54,356 INFO  com.sample.demo.DemoApplication - Starting DemoApplication on USSTWL8RVWNQ2 with PID 18268 (C:\BRRAMAS\PACKAGES\PROJECT\GITHUB\VMDeployCode\target\classes started by BRRAMAS in C:\BRRAMAS\PACKAGES\PROJECT\GITHUB\VMDeployCode)
+2019-09-02 22:50:54,357 DEBUG com.sample.demo.DemoApplication - Running with Spring Boot v2.1.7.RELEASE, Spring v5.1.9.RELEASE
+2019-09-02 22:50:54,357 INFO  com.sample.demo.DemoApplication - No active profile set, falling back to default profiles: default
+2019-09-02 22:51:02,497 INFO  com.sample.demo.DemoApplicationTests - Starting DemoApplicationTests on USSTWL8RVWNQ2 with PID 19608 (started by BRRAMAS in C:\BRRAMAS\PACKAGES\PROJECT\GITHUB\VMDeployCode)
+2019-09-02 22:51:02,502 DEBUG com.sample.demo.DemoApplicationTests - Running with Spring Boot v2.1.7.RELEASE, Spring v5.1.9.RELEASE
+2019-09-02 22:51:02,530 INFO  com.sample.demo.DemoApplicationTests - No active profile set, falling back to default profiles: default
+2019-09-02 22:51:07,678 INFO  com.sample.demo.DemoApplicationTests - Started DemoApplicationTests in 6.768 seconds (JVM running for 9.072)
+2019-09-02 22:51:08,513 DEBUG com.sample.demo.ControllerApp - Invoked / method
+2019-09-02 22:51:09,204 DEBUG com.sample.demo.DemoApplicationTests - Test completed successfully.

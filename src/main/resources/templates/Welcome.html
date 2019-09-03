@@ -1,0 +1,62 @@
+<!DOCTYPE HTML>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+<meta charset="utf-8">
+<meta name="viewport"
+	content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+<title>Gen Re</title>
+
+<link rel="stylesheet"
+	th:href="@{webjars/bootstrap/4.2.1/css/bootstrap.min.css}" />
+<link rel="stylesheet" th:href="@{/css/styles.css}" />
+
+</head>
+
+<body>
+
+	<div class="starter-template">
+		<img src="/resources/static/images/9-2-2019 10-29-46 PM.png"
+			th:attr="src=@{/images/9-2-2019 10-29-46 PM.png}"> <img
+			src="/resources/static/images/header-about-us-2 - Copy.jpg"
+			th:attr="src=@{/images/header-about-us-2 - Copy.jpg}">
+	</div>
+
+	<!-- <h1 align="center">Gen Re - Leading Reinsurance Company</h1> -->
+	<h2 align="center">
+		<span th:text="'Hello, ' + ${message}"></span>
+	</h2>
+
+	<p>Convergence and transformation in the physical, biological and
+		digital spheres of society are the effects of the Fourth Industrial
+		Revolution (4 IR), an era first recognised at the Davos Summit of
+		2016. The 4 IR reflects a perception that change that happens in all
+		spheres simultaneously has far greater potential to disrupt the status
+		quo. More powerful computing and new technologies will exponentially
+		accelerate the effect, bringing rapid and continuous change.</p>
+
+	<p>It is worth considering for a moment the accelerated change in
+		technology. Back in 1965, Gordon Moore, the director of R&D at
+		Fairchild Semiconductor, was asked by the American trade journal
+		Electronics Magazine for his view on the future for semiconductors.
+		Moore’s data over a 12-month period had revealed a doubling in
+		processing speeds while the size and cost of the microprocessors had
+		halved – an effect that became known as Moore’s Law. Although the time
+		horizon for the law is now 18 months, this pace of improvement in
+		technology capability and power has persisted for more than 50 years.
+	</p>
+
+	<p>Lasting change will come from truly understanding our customers’
+		needs and designing processes to help them to deal with the issues
+		they are facing. Emerging technologies, including voice recognition
+		technologies, will enable insurance companies to “get the job done”
+		easily and conveniently, whether the technologies provide underwriting
+		information or notification of claims. But this innovation in life and
+		health insurance can only happen through a collaboration between
+		reinsurers, insurers and new tech businesses, where each party brings
+		its insights and skills together for the ultimate benefit of the
+		customer.</p>
+	<script type="text/javascript"
+		th:src="@{webjars/bootstrap/4.2.1/js/bootstrap.min.js}"></script>
+</body>
+</html>

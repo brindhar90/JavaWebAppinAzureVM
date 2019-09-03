@@ -1,0 +1,17 @@
+@charset "ISO-8859-1";
+ body {
+/*   padding-top: 5rem; */
+  background-color: #C5D5DF;
+} 
+.starter-template {
+ /*  padding: 3rem 1.5rem; */
+  text-align: center;
+}
+
+h1{
+	color:#2e5cb8;
+}
+
+h2{
+	color:#ff751a;
+}
