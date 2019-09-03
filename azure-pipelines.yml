@@ -3,6 +3,9 @@
 # Add steps that analyze code, save build artifacts, deploy, and more:
 # https://docs.microsoft.com/azure/devops/pipelines/languages/java
 
+#variables:
+ # auth: AmmaAppa*123
+
 trigger:
 - repo
 
@@ -20,16 +23,6 @@ steps:
     publishJUnitResults: true
     testResultsFiles: '**/surefire-reports/TEST-*.xml'
     goals: 'package'
-#- task: AzureWebApp@1
-  #inputs:
-    #azureSubscription: 'connection-to-demotcsapp'
-    #appType: 'webApp'
-    #appName: 'demotcsapp'
-    #deployToSlotOrASE: true
-    #resourceGroupName: 'QA'
-    #slotName: 'production'
-    #package: '$(System.DefaultWorkingDirectory)/**/*.war'
-    #package: 'D:/a/r1/a/**/*.war'  
 
 - task: CopyFiles@2
   inputs:
@@ -40,4 +33,4 @@ steps:
   inputs:
     ArtifactName: 'drop'
     PathtoPublish: '$(build.artifactStagingDirectory)'
-    #publishLocation: 'Container' 
+
