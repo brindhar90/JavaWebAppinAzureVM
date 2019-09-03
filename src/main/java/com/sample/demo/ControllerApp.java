@@ -9,6 +9,7 @@ import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 
 @Controller
@@ -33,22 +34,22 @@ public class ControllerApp {
 	@Value("${welcome.message}")
 	private String message;
 
-	private List<String> tasks = Arrays.asList("a", "b", "c", "d", "e", "f", "g");
+	//private List<String> tasks = Arrays.asList("a", "b", "c", "d", "e", "f", "g");
 
-	@GetMapping("/")
+	@RequestMapping("/")
 	public String main(Model model) {
 		model.addAttribute("message", message);
-		model.addAttribute("tasks", tasks);
+		//model.addAttribute("tasks", tasks);
 		log.debug("Invoked / method");
-		return "welcome"; // view
+		return "Welcome"; // view
 	}
 
-	@GetMapping("/demo")
+	@RequestMapping("/demo")
 	public String mainWithParam(@RequestParam(name = "name", required = false, defaultValue = "") String name,
 			Model model) {
 		model.addAttribute("message", name);
 		log.debug("Invoked /demo method");
-		return "welcome"; // view
+		return "Welcome"; // view
 	}
 
 }
