@@ -11,7 +11,7 @@ public class DemoApplication {
 	public static void main(String[] args) {
 		Logger log = LoggerFactory.getLogger(DemoApplication.class);
 		SpringApplication.run(DemoApplication.class, args);
-		log.info("Demo app is running..");
+		log.info("Demo app VM is running..");
 	}
 
 }

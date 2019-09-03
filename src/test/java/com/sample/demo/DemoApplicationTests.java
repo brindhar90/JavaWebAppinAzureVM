@@ -1,5 +1,6 @@
 package com.sample.demo;
 
+import static org.hamcrest.Matchers.containsString;
 import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.get;
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.content;
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.status;
@@ -31,9 +32,10 @@ public class DemoApplicationTests {
 		 * APPLICATION_JSON)) .andExpect(status().isOk());
 		 * .andExpect(content().string(equalTo("Greetings from Spring Boot!")));
 		 */
-		mvc.perform(get("/demo")).andExpect(status().isOk()).andExpect(content().string("Hi! This is a demo page for TCSer"));
+		mvc.perform(get("/")).andExpect(status().isOk()).andExpect(content().string(containsString("Hello,")));
 
 		log.debug("Test completed successfully.");
 	}
+
 
 }
