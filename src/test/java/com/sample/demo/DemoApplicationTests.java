@@ -32,7 +32,7 @@ public class DemoApplicationTests {
 		 * APPLICATION_JSON)) .andExpect(status().isOk());
 		 * .andExpect(content().string(equalTo("Greetings from Spring Boot!")));
 		 */
-		mvc.perform(get("/")).andExpect(status().isOk()).andExpect(content().string(containsString("Hello,")));
+		mvc.perform(get("/")).andExpect(status().isOk()).andExpect(content().string(containsString("Hello")));
 
 		log.debug("Test completed successfully.");
 	}
